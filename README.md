@@ -7,23 +7,23 @@ algorithmic approaches for their implementation, all of which I received as home
 
 ### [Dictionary](https://github.com/culbec/SDA/tree/main/Dictionary_DynamicVector)
 
-This project contains my approach on implementing a 'dictionary' using a 'Dynamic Vector'.
+This project contains my approach on implementing a _dictionary_ using a _Dynamic Vector_.
 
 ### [List](https://github.com/culbec/SDA/tree/main/List_SLL)
 
-This project contains my approach on implementing a 'list' using a 'Singly Linked List'.
+This project contains my approach on implementing a _list_ using a _Singly Linked List_.
 
 ### [Sorted List](https://github.com/culbec/SDA/tree/main/SortedList_SLL_DynamicVector)
 
-This project contains my approach on implementing a 'sorted list' using a 'Singly Linked List'.
+This project contains my approach on implementing a _sorted list_ using a _Singly Linked List_.
 
 ### [Rare Matrix](https://github.com/culbec/SDA/tree/main/RareMatrix-HashTable)
 
-This project contains my approach on implementing a 'rare matrix' using a 'Hash Table'.
+This project contains my approach on implementing a _rare matrix_ using a _Hash Table_.
 
 ### [Binary Tree](https://github.com/culbec/SDA/tree/main/BinaryTree)
 
-This project contains my approach on implementing a 'binary tree' using a 'Dynamic Vector'.
+This project contains my approach on implementing a _binary tree_ using a _Dynamic Vector_.
 
 ## Technologies used
 
